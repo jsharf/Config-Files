@@ -2,14 +2,14 @@ autocmd BufEnter *.c set filetype=c
 autocmd BufEnter *.c syntax on
 let c_cpp_comments = 0
 
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set expandtab
 set si
-set softtabstop=4
+set softtabstop=2
 set background=dark
 set textwidth=80
-set ts=4
+set ts=2
 " Display line and column numbers in bottom right corner
 set ruler
 " Display line numbers
