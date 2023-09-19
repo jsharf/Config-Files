@@ -7,6 +7,11 @@ My Config Files
 -------
 
 Bash Config File
+
+.zshrc
+------
+
+Zshell Config File
   
 .vimrc
 ------
